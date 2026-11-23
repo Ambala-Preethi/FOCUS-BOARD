@@ -1,0 +1,5 @@
+/* App.css - Custom layout tweaks complementing Tailwind CSS */
+
+.focusboard-container {
+  min-height: 100vh;
+}
